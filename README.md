@@ -1,5 +1,5 @@
 
-Tesla Stock Price Prediction Using Machine Learning
+Tesla Stock Price Prediction Using Machine Learning LSTM
 
 Objective:
 The goal of this project is to predict future stock prices of Tesla (TSLA) by utilizing machine learning techniques on historical market data,
